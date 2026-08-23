@@ -266,14 +266,5 @@
       "Good work reverting commits!"
     ],
     "status": "Completed"
-  },
-  {
-    "exercise_name": "side-track",
-    "started_at": 1787492241.393014,
-    "completed_at": 1787492244.678796,
-    "comments": [
-      "Something bad happened"
-    ],
-    "status": "Incomplete"
   }
 ]
